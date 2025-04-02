@@ -6,7 +6,7 @@ Leetcode Question  | Solution & Explanation
 58. Length of Last Word  | Python
 
 
-First Header  | Second Header
+Leetcode Question  | Solution & Explanation
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
