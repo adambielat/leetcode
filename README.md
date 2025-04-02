@@ -2,5 +2,5 @@
 
 Number  | Question | Solution
 ------------- | ------------- | -------------
-9  | Content Cell  | Content Cell
-58  | Content Cell  | Content Cell
+9  | Palindrome Number  | Python
+58  | Length of Last Word  | Python
