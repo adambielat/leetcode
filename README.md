@@ -8,5 +8,5 @@ Leetcode Question  | Solution & Explanation
 
 Leetcode Question  | Solution & Explanation
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+9. Palindrome Number  | Python
+58. Length of Last Word  | Python
