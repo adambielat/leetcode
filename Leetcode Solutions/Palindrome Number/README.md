@@ -1,4 +1,4 @@
-# Palindrome Number<br>
+# Palindrome Number<br><br><br>
 
 
 <b>"Given an integer x, return true if x is a palindrome, and false otherwise."</b>
