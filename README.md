@@ -1,4 +1,4 @@
-# My Leetcode Submissions
+# My Leetcode Solutions
 
 Number  | Question | Solution
 ------------- | ------------- | -------------
