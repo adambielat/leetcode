@@ -1,6 +1,6 @@
-# Palindrome Number<br><br><br>
+# Palindrome Number
 
-
+<br><br><br>
 <b>"Given an integer x, return true if x is a palindrome, and false otherwise."</b>
 
 A palindrome is a word, phrase, or sequence that reads the same backwards as forwards, e.g. madam, 1551 or 2002.
